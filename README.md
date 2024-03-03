@@ -1,4 +1,4 @@
 golden
 egg
-tiger
 lion
+zebra
